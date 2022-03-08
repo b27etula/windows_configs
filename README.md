@@ -2,12 +2,14 @@
 
 config:  
 отображать скрытые файлы  
-отображать известные расширения файлов
+отображать известные расширения файлов  
 отключить windows defender  
   
 Soft:  
-  
+browsers:  
 firefox  
+messengers:  
+telegram
   
 keepassxc  
   
