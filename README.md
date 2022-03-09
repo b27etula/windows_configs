@@ -9,8 +9,10 @@ Soft:
 browsers:  
 firefox  
 messengers:  
-telegram
+telegram  
+slack  
   
 keepassxc  
   
 nordvn  
+openvpn  
