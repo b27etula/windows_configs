@@ -20,3 +20,5 @@ openvpn
   
 7zip  
 winrar  
+  
+lightshot https://app.prntscr.com/en/index.html  
