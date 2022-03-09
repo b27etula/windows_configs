@@ -16,3 +16,6 @@ keepassxc
   
 nordvn  
 openvpn  
+  
+7zip  
+winrar  
