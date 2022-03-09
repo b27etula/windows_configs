@@ -9,6 +9,7 @@ Soft:
 browsers:  
 firefox  
 messengers:  
+discord  
 telegram  
 slack  
   
