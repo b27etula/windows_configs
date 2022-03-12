@@ -37,3 +37,9 @@ lightshot https://app.prntscr.com/en/index.html
 notepad++  
   
 python
+  
+wsl  
+wsl --install  
+wsl --list --online  
+wsl --install -d <DistroName>  
+wsl --set-version <distro name> 2
